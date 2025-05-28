@@ -21,7 +21,9 @@ Feel free to touch me always
 Here are a few highlights from my GitHub:
 
 | Project | Description | Tech Stack |
+
 서울시 공모전 - 서울 모아 React / Styled-Component
+
 LG CNS AM INSPIRE CAMP 2기 미니프로젝트 1기 - React / Redux-toolkit / Styled-Component
 
 
