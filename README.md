@@ -16,13 +16,28 @@
 - **DevOps**: AWS, Netlify, EC2, EKS, Docker
 - **Collaboration Tools**: Git, GitHub, Slack
 
+## **🏢 경력 (Work Experience)**
+- **Full Stack Developer** (2021.09 - 2023.10)
+    - Nodejs, Express, MySQL 기술 스택으로 백엔드 엔드포인트 설계 및 개발 참여
+    - 영업팀과 긴밀히 협력하여 고객 요구사항을 파악하고 맞춤형 기술 솔루션 제안
+    - 복잡한 기술 개념을 명확하고 설득력 있는 프레젠테이션 및 데모로 변환하여 잠재 고객에게 전달
+- **Frontend Developer** (2020.07 - 2021.08)
+    - React, Redux-Toolkit, Material-UI를 사용하여 시스템을 설계하고 UI를 개발
+    - 초기 개발 핵심 멤버로서 시스템을 처음부터 구축하고, 두 차례의 주요 프론트엔드 시스템 업데이트를 주도하여 성능 및 속도 최적화
+
+## **🎓 학력 (Education)**
+- **머독 대학교 (Murdoch University)** (2017.05 - 2019.12)
+    - 컴퓨터 과학 및 사이버 포렌식 학사 (이중 전공)
+    - 졸업 프로젝트에서 MongoDB, React, Node.js 기반의 기술 리드 역할 수행
+    - 학교 내 SCIST(IT 동아리)에서 회장 및 매주 2-3번의 기술 강의 세션을 준비 및 수행
+
 ## 🚀 About Me
 
-- 🔭 I’m currently interested in: **[React/NextJS/Redux/Frontend]**
+- 🔭 I’m currently interested in: **[React / NextJS / Redux / Frontend]**
   
 - 🌱I’m currently learning: **[Backend / MSA / K8s]**
 
-- 📫 How to reach me: **[hwanjinchoi0424@gmail.com]**
+- 📫 How to reach me: **[hwanjinchoi0424@gmail.com]**, [LinkedIn](https://www.linkedin.com/in/hwanjin-choi-2b9a0b185/)
 
 <br>
 
@@ -35,6 +50,7 @@
 | [프로젝트 고래 - 지식인 플랫폼](https://github.com/Hwanjin-Choi/project-frontend-gorae)               | `Next.js, React, Redux Toolkit, Styled-components, Axios, Editor.js`                           | Next.js(App Router) 기반의 Q&A 플랫폼. WYSIWYG 에디터, 랭킹 시스템을 통해 사용자의 지식 교류 및 성장을 돕습니다. (FE 1인 개발) |
 | **[프로젝트 구스 - 뉴스 플랫폼](https://github.com/Hwanjin-Choi/project-goose-frontend)**   | `React, Redux Toolkit, styled-components, D3.js, React Router`          | React와 D3.js를 활용한 뉴스 검색 플랫폼. 키워드 검색, 인기 검색어 워드클라우드, 무한 스크롤, 기사 스크랩 기능을 제공합니다.            |
 | **[서울 모아](https://github.com/Hwanjin-Choi/project-seoul-moa-frontend)**            | `React, JavaScript, Styled-components, Kakao Map API`               | 서울시 문화행사 정보를 지도 기반으로 제공하는 웹 서비스 (서울시 공모전 출품작). 카카오맵 API 연동 및 실시간 데이터 시각화.         |
+
 
 
 ## 📫 연락처 (Contact)
