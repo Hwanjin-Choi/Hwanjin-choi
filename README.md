@@ -49,7 +49,7 @@
 
 | 프로젝트 명               | 기술 스택                        |  프로젝트 구현 내용                |
 | :--------------------- | :-------------------------------- | :-------------------------- |
-| [프로젝트 고래 - 지식인 플랫폼](https://github.com/Hwanjin-Choi/project-frontend-gorae)               | `Next.js, React, Redux Toolkit, Styled-components, Axios, Editor.js`                           | Next.js(App Router) 기반의 Q&A 플랫폼. WYSIWYG 에디터, 랭킹 시스템을 통해 사용자의 지식 교류 및 성장을 돕습니다. (FE 1인 개발) |
+| [프로젝트 고래 - 지식인 플랫폼](https://github.com/Hwanjin-Choi/gorae-next-app)               | `Next.js, React, Redux Toolkit, Styled-components, Axios, Editor.js`                           | Next.js(App Router) 기반의 Q&A 플랫폼. WYSIWYG 에디터, 랭킹 시스템을 통해 사용자의 지식 교류 및 성장을 돕습니다. (FE 1인 개발) |
 | **[프로젝트 구스 - 뉴스 플랫폼](https://github.com/Hwanjin-Choi/project-goose-frontend)**   | `React, Redux Toolkit, styled-components, D3.js, React Router`          | React와 D3.js를 활용한 뉴스 검색 플랫폼. 키워드 검색, 인기 검색어 워드클라우드, 무한 스크롤, 기사 스크랩 기능을 제공합니다.            |
 | **[서울 모아](https://github.com/Hwanjin-Choi/project-seoul-moa-frontend)**            | `React, JavaScript, Styled-components, Kakao Map API`               | 서울시 문화행사 정보를 지도 기반으로 제공하는 웹 서비스 (서울시 공모전 출품작). 카카오맵 API 연동 및 실시간 데이터 시각화.         |
 
