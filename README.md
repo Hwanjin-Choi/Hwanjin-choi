@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="안녕하세요!+프론트엔드+개발자+최환진입니다+감사합니다!";"Hello!+I+Am+Frontend+Developer+Jin+Thanks")](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=18F789&width=600&lines=Hello+World!+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%B5%9C%ED%99%98%EC%A7%84+%EC%9E%85%EB%8B%88%EB%8B%A4!+;Hello+World!+This+is+Frontend+Developer+Jin)](https://git.io/typing-svg)
 👨‍💻 소개 (Introduction)
 주도적으로 문제를 해결하고 빠르게 학습하는 프론트엔드 개발자 최환진입니다. 새로운 기술 스택을 배우고 적용하는 것을 즐기며, 스타트업 환경에서 3년간 React 기반의 풀스택 및 프론트엔드 개발 경험을 통해 비즈니스 요구사항을 실제 서비스로 구현해왔습니다.
 
