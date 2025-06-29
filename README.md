@@ -28,29 +28,21 @@
 
 ## 📌 Pinned Projects
 
-내가 만든 프로젝트
 
 
 | 프로젝트 명               | 기술 스택                        |  프로젝트 구현 내용                |
 | :--------------------- | :-------------------------------- | :-------------------------- |
-| [프로젝트 고래](https://github.com/Hwanjin-Choi/project-frontend-gorae)               | `Next.js, React, Redux Toolkit, Styled-components, Axios, Editor.js`                           | Next.js(App Router) 기반의 Q&A 플랫폼. WYSIWYG 에디터, 랭킹 시스템을 통해 사용자의 지식 교류 및 성장을 돕습니다. (FE 1인 개발) |
-| **State Management**   | `Redux`, `Redux Toolkit`          | 전역 상태 관리              |
-| **Styling**            | `styled-components`               | CSS-in-JS 스타일링          |
-| **Routing**            | `React Router`                    | 클라이언트 사이드 라우팅    |
-| **Data Visualization** | `D3.js`                           | 워드 클라우드 시각화        |
-| **Infinite Scroll**    | `react-infinite-scroll-component` | 무한 스크롤 구현            |
-| **Icons**              | `Font Awesome`                    | 아이콘 라이브러리           |
-
-LG CNS AM INSPIRE CAMP 2기 미니프로젝트 1기 - React / Redux-toolkit / Styled-Component
-
+| [프로젝트 고래 - 지식인 플랫폼](https://github.com/Hwanjin-Choi/project-frontend-gorae)               | `Next.js, React, Redux Toolkit, Styled-components, Axios, Editor.js`                           | Next.js(App Router) 기반의 Q&A 플랫폼. WYSIWYG 에디터, 랭킹 시스템을 통해 사용자의 지식 교류 및 성장을 돕습니다. (FE 1인 개발) |
+| **[프로젝트 구스 - 뉴스 플랫폼](https://github.com/Hwanjin-Choi/project-goose-frontend)**   | `React, Redux Toolkit, styled-components, D3.js, React Router`          | React와 D3.js를 활용한 뉴스 검색 플랫폼. 키워드 검색, 인기 검색어 워드클라우드, 무한 스크롤, 기사 스크랩 기능을 제공합니다.            |
+| **[서울 모아](https://github.com/Hwanjin-Choi/project-seoul-moa-frontend)**            | `React, JavaScript, Styled-components, Kakao Map API`               | 서울시 문화행사 정보를 지도 기반으로 제공하는 웹 서비스 (서울시 공모전 출품작). 카카오맵 API 연동 및 실시간 데이터 시각화.         |
 
 
 ## 📫 연락처 (Contact)
 Email: hwanjinchoi0424@gmail.com
 
-LinkedIn: 
+LinkedIn: (https://www.linkedin.com/in/hwanjin-choi-2b9a0b185/)
 
-Blog: Velog
+Blog: [Velog](https://velog.io/@ajtwoddl0424/posts)
 
 <br>
 
