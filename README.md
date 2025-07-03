@@ -11,17 +11,20 @@
 
 ## **🛠️ 보유 기술 (Skills)**
 
+![Image](https://github.com/user-attachments/assets/3809450c-0b2a-4cd3-8056-e07be50f16f9)
+
 - **Frontend**: React, Next.js, JavaScript, Redux(Toolkit,Persist), HTML/CSS, Tailwind CSS, Material-UI, Styled-components, Material-UI, Editor.js
 - **Backend**: Node.js, Express.js, Java Spring
 - **Database**: MySQL
 - **Data Fetching**: Axios
-- **DevOps**: AWS, Netlify, EC2, EKS, Docker
+- **DevOps**: AWS, Netlify, EC2, EKS, Docker, K8s, ArgoCD, Jenkins
 - **Collaboration Tools**: Git, GitHub, Slack
+
 
 
 ## **💼 경력 사항 (Work Experience)**
 
-### **OppTy.AI (싱가포르)
+### OppTy.AI (싱가포르)
 
 **Full Stack Developer** | 2021.09 - 2023.10 (2년 2개월)
 - 원시 기능 요구사항을 분석하여 MySQL 기반의 효율적인 테이블 및 저장 프로시저를 설계하고 구현하여 데이터 관리 효율성을 극대화하였습니다.
