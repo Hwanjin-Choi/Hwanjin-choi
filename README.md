@@ -59,6 +59,9 @@
 
 ## 📌 Pinned Projects
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Hwanjin-Choi)
+
+
 
 
 | 프로젝트 명               | 기술 스택                        |  프로젝트 구현 내용                |
