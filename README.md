@@ -11,7 +11,8 @@
 
 ## **🛠️ 보유 기술 (Skills)**
 
-![Image](https://github.com/user-attachments/assets/3809450c-0b2a-4cd3-8056-e07be50f16f9)
+<img width="1920" height="1080" alt="myskillset" src="https://github.com/user-attachments/assets/545f7319-c205-42f9-b5a2-eaa7da56f16a" />
+
 
 - **Frontend**: React, Next.js, JavaScript, Redux(Toolkit,Persist), HTML/CSS, Tailwind CSS, Material-UI, Styled-components, Material-UI, Editor.js
 - **Backend**: Node.js, Express.js, Java Spring
