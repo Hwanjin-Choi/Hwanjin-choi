@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=18F789&width=600&lines=Hello+World!+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%B5%9C%ED%99%98%EC%A7%84+%EC%9E%85%EB%8B%88%EB%8B%A4!+;Hello+World!+This+is+Frontend+Developer+Jin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1500&color=33F77C&width=900&lines=Hello+world!+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%B5%9C%ED%99%98%EC%A7%84%EC%9E%85%EB%8B%88%EB%8B%A4!;Hello+world!+My+name+is+Jin%2C+and+I'm+a+Frontend+Developer.)](https://git.io/typing-svg)
 
 ## **👨‍💻 소개 (Introduction)**
 
@@ -49,8 +49,8 @@ MSA 환경에서의 협업 방식을 바탕으로 진행한 **최종 실무 프�
 - 시스템 성능 및 속도 최적화를 위한 두 차례의 대규모 프론트엔드 업데이트를 성공적으로 이끌어, 사용자 만족도와 서비스 안정성을 크게 개선하였습니다.
 
 ## **🎓 학력 (Education)**
-- **머독 대학교 (Murdoch University)** (2017.05 - 2019.12)
-    - 컴퓨터 과학 및 사이버 포렌식 학사 (이중 전공)
+- **Murdoch University** (2017.05 - 2019.12)
+    - 컴퓨터 공학 및 사이버 보안 학사 (복수 전공)
     - 졸업 프로젝트에서 MongoDB, React, Node.js 기반의 기술 리드 역할 수행
     - 학교 내 SCIST(IT 동아리)에서 회장 및 매주 2-3번의 기술 강의 세션을 준비 및 수행
 
